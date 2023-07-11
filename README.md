@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Rosa-Kang
+# 👋 Hello!
 
 I am a Software engineer with 2+ years of experience. Worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API development.
 
