@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I am a Software engineer with 2+ years of experience. Worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API development.
+I am a Software engineer with 3 years of experience. Worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles. Always seeking to take ownership of the project and deliver faster than expected. Comfortable for web and API development.
 
 -----
 - 🌱 I’m currently learning JavaScript, ReactJS, Next.js, TypeScript and other computer languages.
